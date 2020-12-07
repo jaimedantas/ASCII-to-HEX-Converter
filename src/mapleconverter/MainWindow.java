@@ -9,7 +9,7 @@ import java.awt.event.ActionListener;
 
 /**
  *
- * @author 06118
+ * @author Jaime
  */
 public class MainWindow extends javax.swing.JFrame {
 
