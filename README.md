@@ -13,6 +13,9 @@ Desktop application for converting text between several encodings.
 ## Requirements
 - JDK 8+
 
+## Download
+Chick [here](/app/MapleConverter.jar) to download the .jar application.
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details
 
